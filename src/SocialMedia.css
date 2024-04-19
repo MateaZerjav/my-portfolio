@@ -12,3 +12,6 @@
   font-size: 20px;
   padding: 10px;
 }
+.SocialMedia a:hover {
+  color: rgba(7, 67, 10, 0.434);
+}
