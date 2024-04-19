@@ -2,6 +2,7 @@ import "./App.css";
 import Hero from "./Hero";
 import "bootstrap/dist/css/bootstrap.min.css";
 import photo from "./photos/photo.jpg";
+import ContactMe from "./ContactMe";
 
 function App() {
   return (
@@ -29,6 +30,9 @@ function App() {
               />
             </div>
           </div>
+          <footer id="contact-matea">
+            <ContactMe />
+          </footer>
         </div>
       </header>
     </div>
