@@ -42,6 +42,7 @@ function App() {
                 Header="Dictionary App"
                 Title="Created using React.js"
                 photo=""
+                link=""
               />
             </div>
             <div className="col">
@@ -49,6 +50,7 @@ function App() {
                 Header="Weather App"
                 Title="Created using React.js"
                 photo=""
+                link=""
               />
             </div>
           </div>
@@ -58,6 +60,7 @@ function App() {
                 Header="Poetry generator"
                 Title="Created using API"
                 photo=""
+                link=""
               />
             </div>
             <div className="col">
@@ -65,6 +68,7 @@ function App() {
                 Header="Weather App"
                 Title="Created using API"
                 photo=""
+                link=""
               />
             </div>
           </div>
