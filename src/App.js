@@ -52,7 +52,22 @@ function App() {
               />
             </div>
           </div>
-          <div className="row"></div>
+          <div className="row">
+            <div className="col">
+              <Projects
+                Header="Poetry generator"
+                Title="Created using API"
+                photo=""
+              />
+            </div>
+            <div className="col">
+              <Projects
+                Header="Weather App"
+                Title="Created using API"
+                photo=""
+              />
+            </div>
+          </div>
         </div>
       </main>
       <footer id="contact-matea">
