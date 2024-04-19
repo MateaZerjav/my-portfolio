@@ -42,7 +42,7 @@ function App() {
                 Header="Dictionary App"
                 Title="Created using React.js"
                 photo=""
-                link=""
+                link="https://dictionary-final-project.netlify.app/"
               />
             </div>
             <div className="col">
@@ -50,7 +50,7 @@ function App() {
                 Header="Weather App"
                 Title="Created using React.js"
                 photo=""
-                link=""
+                link="https://master--stupendous-alpaca-4c667b.netlify.app/"
               />
             </div>
           </div>
@@ -60,7 +60,7 @@ function App() {
                 Header="Poetry generator"
                 Title="Created using API"
                 photo=""
-                link=""
+                link="https://croatianversecraft.netlify.app/"
               />
             </div>
             <div className="col">
@@ -68,7 +68,7 @@ function App() {
                 Header="Weather App"
                 Title="Created using API"
                 photo=""
-                link=""
+                link="https://main--phenomenal-dolphin-9ca8ea.netlify.app/"
               />
             </div>
           </div>
