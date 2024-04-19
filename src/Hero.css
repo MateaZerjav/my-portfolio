@@ -1,0 +1,36 @@
+.Hero {
+  margin: 70px auto;
+}
+.Hero h1 {
+  font-family: "Playfair Display", serif;
+  font-weight: 700;
+  font-size: 64px;
+  margin-bottom: 50px;
+}
+.Hero h1,
+p {
+  color: black;
+}
+.Hero h2,
+p {
+  font-family: "Poppins", sans-serif;
+  margin-bottom: 40px;
+}
+.Hero h2 {
+  color: rgba(39, 33, 66, 1);
+  font-size: 30px;
+}
+.Hero p {
+  font-size: 12px;
+  letter-spacing: 2px;
+  margin-bottom: 52px;
+}
+.Hero a {
+  font-size: 16px;
+  color: white;
+  background-color: rgba(7, 67, 10, 0.619);
+  text-decoration: none;
+  padding: 18px 46px;
+  letter-spacing: 5px;
+  margin-top: 20px;
+}
