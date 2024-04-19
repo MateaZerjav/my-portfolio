@@ -3,6 +3,7 @@ import Hero from "./Hero";
 import "bootstrap/dist/css/bootstrap.min.css";
 import photo from "./photos/photo.jpg";
 import ContactMe from "./ContactMe";
+import SocialMedia from "./SocialMedia";
 
 function App() {
   return (
@@ -32,6 +33,7 @@ function App() {
           </div>
           <footer id="contact-matea">
             <ContactMe />
+            <SocialMedia />
           </footer>
         </div>
       </header>

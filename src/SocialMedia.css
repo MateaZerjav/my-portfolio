@@ -1,0 +1,14 @@
+.SocialMedia {
+  margin: 30px auto;
+}
+.SocialMedia h3 {
+  font-family: Poppins;
+  font-weight: medium;
+  font-size: 24px;
+  color: rgba(0, 0, 0, 0.551);
+}
+.SocialMedia a {
+  color: rgba(0, 0, 0, 0.551);
+  font-size: 20px;
+  padding: 10px;
+}
