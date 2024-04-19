@@ -4,6 +4,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import photo from "./photos/photo.jpg";
 import ContactMe from "./ContactMe";
 import SocialMedia from "./SocialMedia";
+import Projects from "./Projects";
 
 function App() {
   return (
@@ -33,6 +34,27 @@ function App() {
           </div>
         </div>
       </header>
+      <main>
+        <div className="container">
+          <div className="row">
+            <div className="col">
+              <Projects
+                Header="Dictionary App"
+                Title="Created using React.js"
+                photo=""
+              />
+            </div>
+            <div className="col">
+              <Projects
+                Header="Weather App"
+                Title="Created using React.js"
+                photo=""
+              />
+            </div>
+          </div>
+          <div className="row"></div>
+        </div>
+      </main>
       <footer id="contact-matea">
         <ContactMe />
         <SocialMedia />
