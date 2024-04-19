@@ -7,11 +7,24 @@
   font-size: 24px;
   color: rgba(0, 0, 0, 0.551);
 }
-.SocialMedia a {
+p {
+  letter-spacing: 2px;
+  font-size: 11px;
+  margin-bottom: 53px;
+  margin-top: 53px;
+}
+
+a {
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.429);
+  margin-right: 10px;
+}
+.SocialMedia a:hover {
+  color: rgba(7, 67, 10, 0.625);
+}
+.SocialMedia a .icon {
   color: rgba(0, 0, 0, 0.551);
   font-size: 20px;
   padding: 10px;
-}
-.SocialMedia a:hover {
-  color: rgba(7, 67, 10, 0.434);
+  color: rgba(0, 0, 0, 0.551);
 }

@@ -3,7 +3,7 @@ import "./ContactMe.css";
 
 export default function ContactMe() {
   return (
-    <div className="ContactMe">
+    <div className="ContactMe ">
       <div className="row">
         <div className="col ">
           <h2>Work Inquiry</h2>
