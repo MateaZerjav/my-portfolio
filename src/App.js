@@ -6,6 +6,7 @@ import photo from "./photos/photo.jpg";
 function App() {
   return (
     <div className="App">
+      <style>{"body{background-color: rgba(7, 67, 10, 0.196);}"}</style>
       <header className="App-header">
         <div className="container text-center mt-5 ">
           <div className="row">
