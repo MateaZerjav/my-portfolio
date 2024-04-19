@@ -31,12 +31,12 @@ function App() {
               />
             </div>
           </div>
-          <footer id="contact-matea">
-            <ContactMe />
-            <SocialMedia />
-          </footer>
         </div>
       </header>
+      <footer id="contact-matea">
+        <ContactMe />
+        <SocialMedia />
+      </footer>
     </div>
   );
 }

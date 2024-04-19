@@ -34,6 +34,9 @@
   background-color: rgba(7, 67, 10, 0);
 }
 @media (max-width: 900px) {
+  .ContactMe {
+    max-width: 600px;
+  }
   .ContactMe h2 {
     font-size: 25px;
   }
@@ -49,6 +52,9 @@
   }
 }
 @media (max-width: 576px) {
+  .ContactMe {
+    max-width: 400px;
+  }
   .ContactMe h2 {
     font-size: 15px;
   }
