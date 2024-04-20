@@ -49,7 +49,7 @@ function App() {
                 link="https://dictionary-final-project.netlify.app/"
               />
             </div>
-            <div className="col">
+            <div className="col-sm col-12">
               <Projects
                 Header="Weather App"
                 Title="Created using React.js"
@@ -67,7 +67,7 @@ function App() {
                 link="https://croatianversecraft.netlify.app/"
               />
             </div>
-            <div className="col">
+            <div className="col-sm col-12">
               <Projects
                 Header="Weather App"
                 Title="Created using API"
