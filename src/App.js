@@ -39,6 +39,7 @@ function App() {
         </div>
       </header>
       <main>
+        <h4>Discover My Work: Browse Through My Projects</h4>
         <div className="container">
           <div className="row">
             <div className="col">

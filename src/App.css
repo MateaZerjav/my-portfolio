@@ -9,3 +9,19 @@ img {
   padding: 140px auto;
   width: 560px;
 }
+h4 {
+  font-family: "Playfair Display", serif;
+  font-weight: 700;
+  font-size: 50px !important;
+  color: black !important;
+  padding-top: 150px;
+  padding-bottom: 100px;
+}
+@media (max-width: 576px) {
+  h4 {
+    font-size: 25px !important;
+    margin: 50px;
+    padding-top: 70px;
+    padding-bottom: 70px;
+  }
+}
