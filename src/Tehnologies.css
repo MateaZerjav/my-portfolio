@@ -1,0 +1,31 @@
+.Tehnologies {
+  margin: 100px auto;
+  background-color: rgba(7, 67, 10, 0.225);
+  max-width: 900px;
+  padding-bottom: 35px;
+  padding-top: 35px;
+}
+.Tehnologies h5 {
+  padding-top: 30px;
+  padding-bottom: 20px;
+  font-family: "Playfair Display", serif;
+  font-weight: 700;
+  color: black;
+}
+.Tehnologies strong {
+  color: rgba(7, 67, 10, 0.692);
+}
+
+.Tehnologies li {
+  list-style: none;
+  font-family: "Poppins", sans-serif;
+  font-size: 12px;
+  letter-spacing: 2px;
+  padding-bottom: 10px;
+}
+
+@media (max-width: 900px) {
+  .Tehnologies {
+    max-width: 600px;
+  }
+}

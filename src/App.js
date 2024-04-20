@@ -9,6 +9,7 @@ import photo_poetry from "./photos/AI Croatian poetry generator.png";
 import photo_dictionary from "./photos/Dictionary App.png";
 import photo_react_weather from "./photos/React-Weather-app.png";
 import photo_weather from "./photos/Weather app.png";
+import Tehnologies from "./Tehnologies";
 
 function App() {
   return (
@@ -39,6 +40,7 @@ function App() {
         </div>
       </header>
       <main>
+        <Tehnologies />
         <h4>Discover My Work: Browse Through My Projects</h4>
         <div className="container">
           <div className="row">
