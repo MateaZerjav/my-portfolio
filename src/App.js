@@ -5,6 +5,10 @@ import photo from "./photos/photo.jpg";
 import ContactMe from "./ContactMe";
 import SocialMedia from "./SocialMedia";
 import Projects from "./Projects";
+import photo_poetry from "./photos/AI Croatian poetry generator.png";
+import photo_dictionary from "./photos/Dictionary App.png";
+import photo_react_weather from "./photos/React-Weather-app.png";
+import photo_weather from "./photos/Weather app.png";
 
 function App() {
   return (
@@ -41,7 +45,7 @@ function App() {
               <Projects
                 Header="Dictionary App"
                 Title="Created using React.js"
-                photo=""
+                photo={photo_dictionary}
                 link="https://dictionary-final-project.netlify.app/"
               />
             </div>
@@ -49,7 +53,7 @@ function App() {
               <Projects
                 Header="Weather App"
                 Title="Created using React.js"
-                photo=""
+                photo={photo_react_weather}
                 link="https://master--stupendous-alpaca-4c667b.netlify.app/"
               />
             </div>
@@ -59,7 +63,7 @@ function App() {
               <Projects
                 Header="Poetry generator"
                 Title="Created using API"
-                photo=""
+                photo={photo_poetry}
                 link="https://croatianversecraft.netlify.app/"
               />
             </div>
@@ -67,7 +71,7 @@ function App() {
               <Projects
                 Header="Weather App"
                 Title="Created using API"
-                photo=""
+                photo={photo_weather}
                 link="https://main--phenomenal-dolphin-9ca8ea.netlify.app/"
               />
             </div>
