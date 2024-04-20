@@ -55,7 +55,7 @@ function App() {
             <div className="col-sm col-12">
               <Projects
                 Header="Weather App"
-                Title="Created using React.js, an active API"
+                Title="Created using React.js and an active API"
                 photo={photo_react_weather}
                 link="https://master--stupendous-alpaca-4c667b.netlify.app/"
               />
