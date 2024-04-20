@@ -1,6 +1,8 @@
 .ContactMe {
   display: block;
   margin: 0 auto;
+  margin-top: 70px;
+  margin-bottom: 70px;
   background-color: rgba(7, 67, 10, 0.225);
   max-width: 900px;
 }
