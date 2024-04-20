@@ -33,5 +33,6 @@
 @media (max-width: 576px) {
   .Tehnologies {
     max-width: 370px;
+    margin: 0px auto;
   }
 }
