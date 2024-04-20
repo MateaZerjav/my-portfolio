@@ -32,8 +32,8 @@ export default function SocialMedia() {
       </a>
 
       <p className="codedBy">
-        This website was created using React.js and developed by Matea Zerjav,
-        and is
+        This website was created using React.js and Bootstrap, developed by
+        Matea Zerjav, and is
         <a
           className="linkToGitHub"
           href="https://github.com/MateaZerjav/my-portfolio"
