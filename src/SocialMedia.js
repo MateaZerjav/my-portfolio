@@ -29,6 +29,8 @@ export default function SocialMedia() {
         <a
           className="linkToGitHub"
           href="https://github.com/MateaZerjav/my-portfolio"
+          target="_blank"
+          rel="noopener noreferrer"
         >
           {" "}
           open-sourced on GitHub{" "}
