@@ -22,6 +22,14 @@ export default function SocialMedia() {
       >
         <i className="fa-brands fa-square-github"></i>
       </a>
+      <a
+        className="icon"
+        href="https://www.shecodes.io/graduates/54108-matea-zerjav"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        SheCodes
+      </a>
 
       <p className="codedBy">
         This website was created using React.js and developed by Matea Zerjav,
