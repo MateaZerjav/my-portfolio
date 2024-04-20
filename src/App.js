@@ -47,7 +47,7 @@ function App() {
             <div className="col">
               <Projects
                 Header="Dictionary App"
-                Title="Created using React.js"
+                Title="Created using React.js, an active API, and CSS"
                 photo={photo_dictionary}
                 link="https://dictionary-final-project.netlify.app/"
               />
@@ -55,7 +55,7 @@ function App() {
             <div className="col-sm col-12">
               <Projects
                 Header="Weather App"
-                Title="Created using React.js"
+                Title="Created using React.js, an active API"
                 photo={photo_react_weather}
                 link="https://master--stupendous-alpaca-4c667b.netlify.app/"
               />
@@ -65,7 +65,7 @@ function App() {
             <div className="col">
               <Projects
                 Header="Poetry generator"
-                Title="Created using API"
+                Title="Built using HTML, an active API, and CSS and JavaScript"
                 photo={photo_poetry}
                 link="https://croatianversecraft.netlify.app/"
               />
@@ -73,7 +73,7 @@ function App() {
             <div className="col-sm col-12">
               <Projects
                 Header="Weather App"
-                Title="Created using API"
+                Title="Built using HTML, an active API, and advanced CSS and JavaScript"
                 photo={photo_weather}
                 link="https://main--phenomenal-dolphin-9ca8ea.netlify.app/"
               />
