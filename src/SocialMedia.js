@@ -31,6 +31,17 @@ export default function SocialMedia() {
         SheCodes
       </a>
 
+      <p>
+        To get my CV Resume click{" "}
+        <a
+          href="https://www.dropbox.com/scl/fi/gimoj7nl7wy0wi68x9pie/Matea-Zerjav-CV-Resume.pdf?rlkey=yw92ocynot8or8ubeazvtaoej&st=cmev8id6&dl=0"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          here
+        </a>
+      </p>
+
       <p className="codedBy">
         This website was created using React.js and Bootstrap, developed by
         Matea Zerjav, and is
