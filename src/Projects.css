@@ -3,6 +3,11 @@
   border-radius: 5px;
   box-shadow: 0 30px 50px rgba(7, 67, 10, 0.17);
 }
+.Project:hover {
+  width: 755px;
+  height: 458px;
+  box-shadow: 0 30px 50px rgba(7, 67, 10, 0.37);
+}
 .Project h2 {
   color: rgba(7, 67, 10, 0.692);
   font-family: "Playfair Display", serif;
