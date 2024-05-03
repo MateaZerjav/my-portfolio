@@ -34,7 +34,7 @@ export default function SocialMedia() {
       <p>
         To get my CV Resume click{" "}
         <a
-          href="https://www.dropbox.com/scl/fi/gimoj7nl7wy0wi68x9pie/Matea-Zerjav-CV-Resume.pdf?rlkey=yw92ocynot8or8ubeazvtaoej&st=cmev8id6&dl=0"
+          href="https://www.dropbox.com/scl/fi/gimoj7nl7wy0wi68x9pie/Matea-Zerjav-CV-Resume.pdf?rlkey=yw92ocynot8or8ubeazvtaoej&st=ftt72lzr&dl=0"
           target="_blank"
           rel="noopener noreferrer"
         >
