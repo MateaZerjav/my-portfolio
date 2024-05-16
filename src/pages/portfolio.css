@@ -1,0 +1,27 @@
+body {
+  background-color: rgba(7, 67, 10, 0.196);
+}
+.App {
+  text-align: center;
+}
+img {
+  border-radius: 5%;
+  padding: 140px auto;
+  width: 560px;
+}
+h4 {
+  font-family: "Playfair Display", serif;
+  font-weight: 700;
+  font-size: 50px !important;
+  color: black !important;
+  padding-top: 80px;
+  padding-bottom: 100px;
+}
+@media (max-width: 576px) {
+  h4 {
+    font-size: 25px !important;
+    margin: 50px;
+    padding-top: 70px;
+    padding-bottom: 70px;
+  }
+}
