@@ -1,15 +1,15 @@
 import "./App.css";
-import Hero from "./Hero";
+import Hero from "./components/Hero";
 import "bootstrap/dist/css/bootstrap.min.css";
 import photo from "./photos/photo.jpg";
-import ContactMe from "./ContactMe";
-import SocialMedia from "./SocialMedia";
-import Projects from "./Projects";
+import ContactMe from "./components/ContactMe";
+import SocialMedia from "./components/SocialMedia";
+import Projects from "./components/Projects";
 import photo_poetry from "./photos/AI Croatian poetry generator.png";
 import photo_dictionary from "./photos/Dictionary App.png";
 import photo_react_weather from "./photos/React-Weather-app.png";
 import photo_weather from "./photos/Weather app.png";
-import Tehnologies from "./Tehnologies";
+import Tehnologies from "./components/Tehnologies";
 
 function App() {
   return (

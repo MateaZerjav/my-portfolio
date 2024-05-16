@@ -11,7 +11,7 @@ export default function Tehnologies() {
       <ul>
         <li>React.js</li>
         <li>Bootstrap</li>
-        <li>Responsive development</li>
+        <li>Python</li>
       </ul>
     </div>
   );
