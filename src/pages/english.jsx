@@ -12,7 +12,7 @@ import photo_weather from "../photos/Weather app.png";
 import Tehnologies from "../components/Tehnologies";
 import { Link } from "react-router-dom";
 
-export default function Englisch() {
+export default function English() {
   return (
     <div className="App">
       <style>{"body{background-color: rgba(7, 67, 10, 0.196);}"}</style>

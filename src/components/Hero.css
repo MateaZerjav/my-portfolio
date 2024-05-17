@@ -25,7 +25,7 @@ p {
   letter-spacing: 2px;
   margin-bottom: 53px;
 }
-.Hero a {
+.Hero button {
   font-size: 16px;
   color: white;
   background-color: rgba(7, 67, 10, 0.619);
@@ -33,8 +33,9 @@ p {
   padding: 18px 46px;
   letter-spacing: 5px;
   margin-top: 20px;
+  border: none;
 }
-.Hero a:hover {
+.Hero button:hover {
   color: rgb(7, 67, 10);
   border: solid;
   border-width: thin;
@@ -63,7 +64,7 @@ p {
     margin-top: 0;
     margin-bottom: 20px;
   }
-  .Hero a {
+  .Hero button {
     font-size: 12px;
     padding: 15px 30px;
     margin: 0 auto;

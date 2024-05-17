@@ -17,7 +17,7 @@ export default function Croatian() {
     <div className="App">
       <style>{"body{background-color: rgba(7, 67, 10, 0.196);}"}</style>
       <header className="App-header">
-        <Link to="/">Englisch</Link>
+        <Link to="/">Englich</Link>
         <Link to="/german">German</Link>
         <Link to="/croatian">Croatian</Link>
         <div className="container text-center mt-5 ">

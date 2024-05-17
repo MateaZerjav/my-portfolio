@@ -9,9 +9,7 @@ export default function Hero(props) {
       <h2>{props.header2}</h2>
       <p>{props.paragraph}</p>
       <p>This website is currently under construction</p>
-      <a href={props.getstartedId} className="button">
-        {props.getstarted}
-      </a>
+      <button className="button">{props.getstarted}</button>
       <Link to="/#contact-matea-eng"></Link>
     </div>
   );
