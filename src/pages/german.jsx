@@ -17,6 +17,9 @@ export default function German() {
     <div className="App">
       <style>{"body{background-color: rgba(7, 67, 10, 0.196);}"}</style>
       <header className="App-header">
+        <Link to="/">Englisch</Link>
+        <Link to="/german">German</Link>
+        <Link to="/croatian">Croatian</Link>
         <div className="container text-center mt-5 ">
           <div className="row">
             <div className="col-12">
@@ -28,7 +31,12 @@ export default function German() {
             </div>
             <div className="col-sm col-12 ">
               {" "}
-              <Hero />
+              <Hero
+                header1="Hallo, ich bin Matea Žerjav"
+                header2="Junior Frontend-Entwickler mit Sitz in Stuttgart, Deutschland."
+                paragraph="Lassen Sie uns zusammenarbeiten und ich werde Ihnen mein Bestes geben"
+                getstarted="Loslegen"
+              />
             </div>
             <div className="col">
               <img
@@ -85,9 +93,6 @@ export default function German() {
       <footer id="contact-matea">
         <ContactMe />
         <SocialMedia />
-        <Link to="/">Englisch</Link>
-        <Link to="/german">German</Link>
-        <Link to="/croatian">Croatian</Link>
       </footer>
     </div>
   );

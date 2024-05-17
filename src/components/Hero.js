@@ -1,14 +1,14 @@
 import React from "react";
 import "./Hero.css";
 
-export default function Hero() {
+export default function Hero(props) {
   return (
     <div className="Hero">
-      <h1>Hi, I am Matea Žerjav</h1>
-      <h2>Junior Frontend Developer, based in Stuttgart, Germany.</h2>
-      <p>Let’s work together and i’ll help you by all my best</p>
+      <h1>{props.header1}</h1>
+      <h2>{props.header2}</h2>
+      <p>{props.paragraph}</p>
       <a href="/#contact-matea" className="button">
-        Get Started
+        {props.getstarted}
       </a>
     </div>
   );
