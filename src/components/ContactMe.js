@@ -1,16 +1,16 @@
 import React from "react";
 import "./ContactMe.css";
 
-export default function ContactMe() {
+export default function ContactMe(props) {
   return (
     <div className="ContactMe ">
       <div className="row">
         <div className="col ">
           <h2>Work Inquiry</h2>
-          <p>Send your inquiry through e-mail</p>
+          <p>{props.paragraph}</p>
         </div>
         <div className="col">
-          <a href="mailto:matea.zerjav@gmail.com">Let’s talk here</a>
+          <a href="mailto:matea.zerjav@gmail.com">{props.button}</a>
         </div>
       </div>
     </div>

@@ -49,14 +49,14 @@ export default function German() {
         </div>
       </header>
       <main>
-        <Tehnologies />
-        <h4>njemacki: Browse Through My Projects</h4>
+        <Tehnologies header="Technologien, mit denen ich gerne arbeite" />
+        <h4>Entdecken Sie meine Arbeit: Durchsuchen Sie meine Projekte</h4>
         <div className="container">
           <div className="row">
             <div className="col">
               <Projects
                 Header="Dictionary App"
-                Title="Created using React.js, an active API, responsive development, and CSS"
+                Title="Erstellt mit React.js, einer aktiven API, responsiver Entwicklung und CSS"
                 photo={photo_dictionary}
                 link="https://dictionary-final-project.netlify.app/"
               />
@@ -64,7 +64,7 @@ export default function German() {
             <div className="col-sm col-12">
               <Projects
                 Header="Weather App"
-                Title="Created using React.js, responsive development, and an active API"
+                Title="Erstellt mit React.js, responsiver Entwicklung und einer aktiven API"
                 photo={photo_react_weather}
                 link="https://master--stupendous-alpaca-4c667b.netlify.app/"
               />
@@ -74,7 +74,7 @@ export default function German() {
             <div className="col">
               <Projects
                 Header="Poetry generator"
-                Title="Built using HTML, an active API, responsive development, and CSS and JavaScript"
+                Title="Gebaut mit HTML, einer aktiven API, responsiver Entwicklung JavaScript"
                 photo={photo_poetry}
                 link="https://croatianversecraft.netlify.app/"
               />
@@ -82,7 +82,7 @@ export default function German() {
             <div className="col-sm col-12">
               <Projects
                 Header="Weather App"
-                Title="Built using HTML, an active API, and advanced CSS and JavaScript"
+                Title="Gebaut mit HTML, einer aktiven API sowie erweitertem CSS und JavaScript"
                 photo={photo_weather}
                 link="https://main--phenomenal-dolphin-9ca8ea.netlify.app/"
               />
@@ -91,8 +91,17 @@ export default function German() {
         </div>
       </main>
       <footer id="contact-matea-deu">
-        <ContactMe />
-        <SocialMedia />
+        <ContactMe
+          paragraph="Senden Sie Ihre Anfrage per E-Mail"
+          button="Lass uns hier reden"
+        />
+        <SocialMedia
+          paragraph="Um meinen Lebenslauf zu erhalten, klicken Sie "
+          here="hier"
+          madeby="Diese Website wurde mit React.js und Bootstrap erstellt, entwickelt von
+         Matea Zerjav, und"
+          github="ist Open-Source auf GitHub"
+        />
       </footer>
     </div>
   );

@@ -1,7 +1,7 @@
 import React from "react";
 import "./SocialMedia.css";
 
-export default function SocialMedia() {
+export default function SocialMedia(props) {
   return (
     <div className="SocialMedia">
       <h3>matea.zerjav@gmail.com</h3>
@@ -32,19 +32,18 @@ export default function SocialMedia() {
       </a>
 
       <p>
-        To get my CV Resume click{" "}
+        {props.paragraph}{" "}
         <a
           href="https://www.dropbox.com/scl/fi/0rq1rfhx502c37ie318oi/Matea-Zerjav-CV-Resume.pdf?rlkey=m1k1d10w4gxepvxai8jgq15c4&st=kaqqgrw7&dl=0"
           target="_blank"
           rel="noopener noreferrer"
         >
-          here
+          {props.here}
         </a>
       </p>
 
       <p className="codedBy">
-        This website was created using React.js and Bootstrap, developed by
-        Matea Zerjav, and is
+        {props.madeby}
         <a
           className="linkToGitHub"
           href="https://github.com/MateaZerjav/my-portfolio"
@@ -52,7 +51,7 @@ export default function SocialMedia() {
           rel="noopener noreferrer"
         >
           {" "}
-          open-sourced on GitHub{" "}
+          {props.github}{" "}
         </a>
       </p>
     </div>

@@ -50,7 +50,7 @@ export default function English() {
         </div>
       </header>
       <main>
-        <Tehnologies />
+        <Tehnologies header="Technologies I Enjoy Working With" />
         <h4>Discover My Work: Browse Through My Projects</h4>
         <div className="container">
           <div className="row">
@@ -92,8 +92,17 @@ export default function English() {
         </div>
       </main>
       <footer id="contact-matea-eng">
-        <ContactMe />
-        <SocialMedia />
+        <ContactMe
+          paragraph="Send your inquiry through e-mail"
+          button="Let’s talk here"
+        />
+        <SocialMedia
+          paragraph="To get my CV Resume click"
+          here="here"
+          madeby="This website was created using React.js and Bootstrap, developed by
+        Matea Zerjav, and is"
+          github="open-sourced on GitHub"
+        />
       </footer>
     </div>
   );
