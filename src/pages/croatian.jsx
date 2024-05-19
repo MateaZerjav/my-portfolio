@@ -98,8 +98,7 @@ export default function Croatian() {
         <SocialMedia
           paragraph="Za preuzimanje zivotopisa klikni"
           here="ovdje"
-          madeby="Ova internet stranica je razvijena koristeci React.js i Bootstrap, od strane Matee Zerjav import {Link} from react-router-dom;
-      button className=button{props.getstarted}button"
+          madeby="Ova internet stranica je razvijena koristeci React.js i Bootstrap, od strane Matee Zerjav "
           github="te je otvoreni-izvor na GitHub-u"
         />
       </footer>
