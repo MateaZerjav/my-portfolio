@@ -94,7 +94,7 @@ export default function German() {
         <ContactMe
           inquiry="Work Inquiry"
           paragraph="Senden Sie Ihre Anfrage per E-Mail"
-          button="Kontakt aufnehmen"
+          button="E-mail senden"
         />
         <SocialMedia
           paragraph="Um meinen Lebenslauf zu erhalten, klicken Sie "
