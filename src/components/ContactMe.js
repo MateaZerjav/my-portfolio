@@ -6,7 +6,7 @@ export default function ContactMe(props) {
     <div className="ContactMe ">
       <div className="row">
         <div className="col ">
-          <h2>Work Inquiry</h2>
+          <h2>{props.inquiry}</h2>
           <p>{props.paragraph}</p>
         </div>
         <div className="col">

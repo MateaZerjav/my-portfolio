@@ -18,8 +18,8 @@ export default function German() {
       <style>{"body{background-color: rgba(7, 67, 10, 0.196);}"}</style>
       <header className="App-header">
         <Link to="/">English</Link>
-        <Link to="/german">German</Link>
-        <Link to="/croatian">Croatian</Link>
+        <Link to="/german">Deutsch</Link>
+        <Link to="/croatian">Hrvatski</Link>
         <div className="container text-center mt-5 ">
           <div className="row">
             <div className="col-12">
@@ -92,6 +92,7 @@ export default function German() {
       </main>
       <footer id="contact-matea-deu">
         <ContactMe
+          inquiry="Work Inquiry"
           paragraph="Senden Sie Ihre Anfrage per E-Mail"
           button="Kontakt aufnehmen"
         />

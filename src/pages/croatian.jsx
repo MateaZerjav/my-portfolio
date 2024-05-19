@@ -17,9 +17,9 @@ export default function Croatian() {
     <div className="App">
       <style>{"body{background-color: rgba(7, 67, 10, 0.196);}"}</style>
       <header className="App-header">
-        <Link to="/">Englich</Link>
-        <Link to="/german">German</Link>
-        <Link to="/croatian">Croatian</Link>
+        <Link to="/">English</Link>
+        <Link to="/german">Deutsch</Link>
+        <Link to="/croatian">Hrvatski</Link>
         <div className="container text-center mt-5 ">
           <div className="row">
             <div className="col-12">
@@ -64,7 +64,7 @@ export default function Croatian() {
             <div className="col-sm col-12">
               <Projects
                 Header="Weather App"
-                Title="Created using React.js, responsive development, and an active API"
+                Title="Razvijeno koristeći React.js, prilagodljivi razvoj i aktivni API"
                 photo={photo_react_weather}
                 link="https://master--stupendous-alpaca-4c667b.netlify.app/"
               />
@@ -74,7 +74,7 @@ export default function Croatian() {
             <div className="col">
               <Projects
                 Header="Poetry generator"
-                Title="Sastavljeno HTML-om, an active API, responsive development, and CSS and JavaScript"
+                Title="Sastavljeno HTML-om, koristeći aktivni API, prilagodljivi razvoj, CSS i JavaScript"
                 photo={photo_poetry}
                 link="https://croatianversecraft.netlify.app/"
               />
@@ -82,7 +82,7 @@ export default function Croatian() {
             <div className="col-sm col-12">
               <Projects
                 Header="Weather App"
-                Title="Built using HTML, an active API, and advanced CSS and JavaScript"
+                Title="Sastavljeno HTML-om, koristeći aktivni API, napredni CSS i JavaScript"
                 photo={photo_weather}
                 link="https://main--phenomenal-dolphin-9ca8ea.netlify.app/"
               />
@@ -92,6 +92,7 @@ export default function Croatian() {
       </main>
       <footer id="contact-matea-hr">
         <ContactMe
+          inquiry="Poslovni upit"
           paragraph="Posalji svoj upit e-mailom"
           button="Kontaktiraj me"
         />
