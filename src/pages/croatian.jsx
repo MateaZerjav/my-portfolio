@@ -33,7 +33,7 @@ export default function Croatian() {
               {" "}
               <Hero
                 header1="Bok, ja sam Matea Žerjav"
-                header2="Mladi razvijać sučelja, nalazim se u Stuttgartu, u  Njemačkoj."
+                header2="Mladi razvijač sučelja, nalazim se u Stuttgartu, u  Njemačkoj."
                 paragraph="Radujem se budućoj suradnji."
                 getstarted="Krenimo"
               />
