@@ -56,7 +56,7 @@ export default function Croatian() {
             <div className="col">
               <Projects
                 Header="Dictionary App"
-                Title="Razvijeno koristeći React.js, aktivni API, responsive development i CSS"
+                Title="Razvijeno koristeći React.js, aktivni API, prilagodljivi razvoj i CSS"
                 photo={photo_dictionary}
                 link="https://dictionary-final-project.netlify.app/"
               />
@@ -74,7 +74,7 @@ export default function Croatian() {
             <div className="col">
               <Projects
                 Header="Poetry generator"
-                Title="Built using HTML, an active API, responsive development, and CSS and JavaScript"
+                Title="Sastavljeno HTML-om, an active API, responsive development, and CSS and JavaScript"
                 photo={photo_poetry}
                 link="https://croatianversecraft.netlify.app/"
               />
@@ -92,15 +92,14 @@ export default function Croatian() {
       </main>
       <footer id="contact-matea-hr">
         <ContactMe
-          paragraph="Send your inquiry through e-mail"
-          button="Let’s talk here"
+          paragraph="Posalji svoj upit e-mailom"
+          button="Kontaktiraj me"
         />
         <SocialMedia
-          paragraph="Za preuzimanje "
+          paragraph="Za preuzimanje zivotopisa klikni"
           here="ovdje"
-          madeby="This website was created using React.js and Bootstrap, developed by
-        Matea Zerjav, and is"
-          github="open-sourced on GitHub"
+          madeby="Ova internet stranica je razvijena koristeci React.js i Bootstrap, od strane Matee Zerjav i"
+          github="te je otvoreni-izvor na GitHub-u"
         />
       </footer>
     </div>
