@@ -96,8 +96,8 @@ export default function Croatian() {
           button="Let’s talk here"
         />
         <SocialMedia
-          paragraph="To get my CV Resume click"
-          here="here"
+          paragraph="Za preuzimanje "
+          here="ovdje"
           madeby="This website was created using React.js and Bootstrap, developed by
         Matea Zerjav, and is"
           github="open-sourced on GitHub"
