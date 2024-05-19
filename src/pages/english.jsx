@@ -36,9 +36,9 @@ export default function English() {
                 header2="Junior Frontend Developer, based in Stuttgart, Germany."
                 paragraph="Let’s work together and i’ll help you by all my best"
                 getstarted="Get Started"
-                getstartedId="//#bottom"
               />
             </div>
+
             <div className="col">
               <img
                 className="img-fluid d-none d-sm-block MateasPhoto"

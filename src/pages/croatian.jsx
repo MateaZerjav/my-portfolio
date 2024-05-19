@@ -36,7 +36,6 @@ export default function Croatian() {
                 header2="Junior Frontend Developer, nalazim se u Stuttgartu, Njemačka."
                 paragraph="Rdimo zajedno i dati ću sve od sebe da Vam pomognem."
                 getstarted="Krenimo"
-                getstartedId="./#contact-matea-hr"
               />
             </div>
             <div className="col">

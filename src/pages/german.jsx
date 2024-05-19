@@ -36,7 +36,6 @@ export default function German() {
                 header2="Junior Frontend-Entwickler mit Sitz in Stuttgart, Deutschland."
                 paragraph="Lassen Sie uns zusammenarbeiten und ich werde Ihnen mein Bestes geben"
                 getstarted="Loslegen"
-                getstartedId="./#contact-matea-deu"
               />
             </div>
             <div className="col">
