@@ -93,7 +93,7 @@ export default function German() {
       <footer id="contact-matea-deu">
         <ContactMe
           paragraph="Senden Sie Ihre Anfrage per E-Mail"
-          button="Lass uns hier reden"
+          button="Kontakt aufnehmen"
         />
         <SocialMedia
           paragraph="Um meinen Lebenslauf zu erhalten, klicken Sie "

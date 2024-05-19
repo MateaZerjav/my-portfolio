@@ -33,8 +33,8 @@ export default function Croatian() {
               {" "}
               <Hero
                 header1="Bok, ja sam Matea Žerjav"
-                header2="Junior Frontend Developer, nalazim se u Stuttgartu, Njemačka."
-                paragraph="Rdimo zajedno i dati ću sve od sebe da Vam pomognem."
+                header2="Mladi Razvijać Sučelja, nalazim se u Stuttgartu, u  Njemačkoj."
+                paragraph="Rodujem se budućoj suradnji."
                 getstarted="Krenimo"
               />
             </div>
@@ -49,14 +49,14 @@ export default function Croatian() {
         </div>
       </header>
       <main>
-        <Tehnologies />
-        <h4>hrvatski: Browse Through My Projects</h4>
+        <Tehnologies header="Razvojni alati s kojima se rado koristim" />
+        <h4>Otkrij moj rad: Pogledaj moje projekte</h4>
         <div className="container">
           <div className="row">
             <div className="col">
               <Projects
                 Header="Dictionary App"
-                Title="Created using React.js, an active API, responsive development, and CSS"
+                Title="Razvijeno koristeći React.js, aktivni API, responsive development i CSS"
                 photo={photo_dictionary}
                 link="https://dictionary-final-project.netlify.app/"
               />
