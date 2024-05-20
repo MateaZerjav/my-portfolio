@@ -33,11 +33,7 @@ export default function SocialMedia(props) {
 
       <p>
         {props.paragraph}{" "}
-        <a
-          href="https://www.dropbox.com/scl/fi/0rq1rfhx502c37ie318oi/Matea-Zerjav-CV-Resume.pdf?rlkey=m1k1d10w4gxepvxai8jgq15c4&st=kaqqgrw7&dl=0"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
+        <a href={props.cv} target="_blank" rel="noopener noreferrer">
           {props.here}
         </a>
       </p>

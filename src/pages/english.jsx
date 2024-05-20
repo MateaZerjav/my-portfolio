@@ -99,6 +99,7 @@ export default function English() {
         />
         <SocialMedia
           paragraph="To get my CV Resume click"
+          cv="https://www.dropbox.com/scl/fi/0rq1rfhx502c37ie318oi/Matea-Zerjav-CV-Resume.pdf?rlkey=m1k1d10w4gxepvxai8jgq15c4&st=kaqqgrw7&dl=0"
           here="here"
           madeby="This website was created using React.js and Bootstrap, developed by
         Matea Zerjav, and is"
