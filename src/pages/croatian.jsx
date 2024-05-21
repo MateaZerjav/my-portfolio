@@ -10,16 +10,14 @@ import photo_dictionary from "../photos/Dictionary App.png";
 import photo_react_weather from "../photos/React-Weather-app.png";
 import photo_weather from "../photos/Weather app.png";
 import Tehnologies from "../components/Tehnologies";
-import { Link } from "react-router-dom";
+import Languages from "../components/Languages";
 
 export default function Croatian() {
   return (
     <div className="App">
       <style>{"body{background-color: rgba(7, 67, 10, 0.196);}"}</style>
       <header className="App-header">
-        <Link to="/">English</Link>
-        <Link to="/german">Deutsch</Link>
-        <Link to="/croatian">Hrvatski</Link>
+        <Languages />
         <div className="container text-center mt-5 ">
           <div className="row">
             <div className="col-12">
