@@ -22,14 +22,12 @@ div.Languages:hover {
 }
 
 @media (max-width: 900px) {
-  a {
+  .Languages a {
     margin: 0 auto;
-    padding-left: 20px;
+    padding-left: 10px;
     padding-right: 0px;
   }
-  a:hover {
+  .Languages a:hover {
     font-size: 50px;
-    transition-duration: 300ms;
-    transition: all;
   }
 }
