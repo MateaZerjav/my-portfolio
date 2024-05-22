@@ -96,7 +96,7 @@ export default function German() {
         />
         <SocialMedia
           paragraph="Um meinen Lebenslauf zu erhalten, klicken Sie "
-          cv="https://www.dropbox.com/scl/fi/x7kytpn8pxab7nsfev2g6/Matea-Zerjav-Lebenslauf.pdf?rlkey=eara9cnmga1cbv28lqlmzqk6j&st=kseyeasy&dl=0"
+          cv="https://www.dropbox.com/scl/fi/d3kjcdy0buud5gugde18a/Matea-erjav-Lebenslauf.pdf?rlkey=ck8s357xkgycxexa2p2g6oief&st=tbwwtctd&dl=0"
           here="hier"
           madeby="Diese Website wurde mit React.js und Bootstrap erstellt, entwickelt von
          Matea Zerjav, und"

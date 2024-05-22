@@ -96,7 +96,7 @@ export default function Croatian() {
         />
         <SocialMedia
           paragraph="Za preuzimanje zivotopisa klikni"
-          cv="https://www.dropbox.com/scl/fi/wkzju896paqu2w3yw7i6u/Matea-erjav-ivotopis.pdf?rlkey=ljlwv6454tzir913swk2bp9n8&st=s1qh8bav&dl=0"
+          cv="https://www.dropbox.com/scl/fi/t80rnh3x47oi94r6skvhs/Matea-erja-ivotopis.pdf?rlkey=w8ow4l5eui2wdhu2e56jva9xw&st=78fhuvdi&dl=0"
           here="ovdje"
           madeby="Ova internet stranica je razvijena koristeci React.js i Bootstrap, od strane Matee Zerjav "
           github="te je otvoreni-izvor na GitHub-u"
