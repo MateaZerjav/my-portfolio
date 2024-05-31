@@ -33,7 +33,8 @@ export default function German() {
                 header1="Hallo, ich bin Matea Žerjav"
                 header2="Junior Frontend-Entwickler mit Sitz in Stuttgart, Deutschland."
                 paragraph="Lassen Sie uns zusammenarbeiten und ich werde Ihnen mein Bestes geben"
-                getstarted="Loslegen"
+                button="Loslegen"
+                scroll="contact-matea-deu"
               />
             </div>
             <div className="col">
@@ -89,7 +90,7 @@ Tailwind CSS "
           </div>
         </div>
       </main>
-      <footer id="contact-matea-deu">
+      <footer name="contact-matea-deu">
         <ContactMe
           inquiry="Work Inquiry"
           paragraph="Senden Sie Ihre Anfrage per E-Mail"

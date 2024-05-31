@@ -33,7 +33,8 @@ export default function Croatian() {
                 header1="Bok, ja sam Matea Žerjav"
                 header2="Mladi razvijač sučelja, nalazim se u Stuttgartu, u  Njemačkoj."
                 paragraph="Radujem se budućoj suradnji."
-                getstarted="Krenimo"
+                button="Krenimo"
+                scroll="contact-matea-hr"
               />
             </div>
             <div className="col">
