@@ -7,7 +7,7 @@ import SocialMedia from "../components/SocialMedia";
 import Projects from "../components/Projects";
 import photo_poetry from "../photos/AI Croatian poetry generator.png";
 import photo_dictionary from "../photos/Dictionary App.png";
-import photo_react_weather from "../photos/React-Weather-app.png";
+import photo_elektro_tea from "../photos/Elektro tea.png";
 import photo_weather from "../photos/Weather app.png";
 import Tehnologies from "../components/Tehnologies";
 import Languages from "../components/Languages";
@@ -63,9 +63,10 @@ export default function English() {
             <div className="col-sm col-12">
               <Projects
                 Header="Weather App"
-                Title="Created using React.js, responsive development, and an active API"
-                photo={photo_react_weather}
-                link="https://master--stupendous-alpaca-4c667b.netlify.app/"
+                Title="Created using React.js, responsive development, and 
+Tailwind CSS "
+                photo={photo_elektro_tea}
+                link="https://elektro-tea.hr/"
               />
             </div>
           </div>
