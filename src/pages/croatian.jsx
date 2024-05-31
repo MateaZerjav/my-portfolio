@@ -95,6 +95,7 @@ Tailwind CSS "
           inquiry="Poslovni upit"
           paragraph="Posalji svoj upit e-mailom"
           button="Kontaktiraj me"
+          contact_form="/hrform"
         />
         <SocialMedia
           paragraph="Za preuzimanje zivotopisa klikni"

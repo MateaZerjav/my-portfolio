@@ -4,7 +4,10 @@ import "./SocialMedia.css";
 export default function SocialMedia(props) {
   return (
     <div className="SocialMedia">
-      <h3>matea.zerjav@gmail.com</h3>
+      <h3>
+        {" "}
+        <a href="mailto:matea.zerjav@gmail.com">matea.zerjav@gmail.com</a>
+      </h3>
 
       <a
         className="icon"

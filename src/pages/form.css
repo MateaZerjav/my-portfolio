@@ -1,0 +1,45 @@
+.EnForm form {
+  display: block;
+  margin: 0 auto;
+  margin-top: 250px;
+  margin-bottom: 70px;
+  background-color: rgba(7, 67, 10, 0.225);
+  max-width: 900px;
+  padding: 70px;
+  display: flex;
+  justify-content: center;
+}
+.fEnForm h2 {
+  font-family: "Playfair Display", serif;
+  color: black;
+  display: relative;
+  top: 100px;
+}
+
+button {
+  border: none;
+  color: white;
+  font-size: 12px;
+  background-color: rgba(7, 67, 10, 0.619);
+  text-decoration: none;
+  padding: 15px 30px;
+  letter-spacing: 5px;
+  color: rgb(255, 255, 255);
+  margin-top: 30px;
+}
+button:hover {
+  color: rgb(7, 67, 10);
+  border: solid;
+  border-width: thin;
+  border-color: rgb(7, 67, 10);
+  background-color: rgba(7, 67, 10, 0);
+}
+.center {
+  margin-top: 30px;
+}
+.messege {
+  margin-top: 20px;
+  padding: 25px;
+  padding-right: 100px;
+  padding-legt: 100px;
+}

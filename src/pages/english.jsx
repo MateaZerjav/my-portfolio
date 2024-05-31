@@ -96,6 +96,7 @@ Tailwind CSS "
           inquiry="Work Inquiry"
           paragraph="Send your inquiry through e-mail"
           button="Let’s talk here"
+          contact_form="/enform"
         />
         <SocialMedia
           paragraph="To get my CV Resume click"

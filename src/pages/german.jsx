@@ -95,6 +95,7 @@ Tailwind CSS "
           inquiry="Work Inquiry"
           paragraph="Senden Sie Ihre Anfrage per E-Mail"
           button="E-mail senden"
+          contact_form="/deuform"
         />
         <SocialMedia
           paragraph="Um meinen Lebenslauf zu erhalten, klicken Sie "
