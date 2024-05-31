@@ -1,6 +1,5 @@
 import React from "react";
 import "./Hero.css";
-import { Button } from "bootstrap";
 import { Link } from "react-scroll";
 
 export default function Hero(props) {
