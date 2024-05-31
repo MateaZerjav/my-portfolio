@@ -97,7 +97,7 @@ Tailwind CSS "
         />
         <SocialMedia
           paragraph="Um meinen Lebenslauf zu erhalten, klicken Sie "
-          cv="https://www.dropbox.com/scl/fi/d3kjcdy0buud5gugde18a/Matea-erjav-Lebenslauf.pdf?rlkey=ck8s357xkgycxexa2p2g6oief&st=tbwwtctd&dl=0"
+          cv="https://www.dropbox.com/scl/fi/odsfp31omldlq0a0wa2so/Matea-erjavLebenslauf.pdf?rlkey=aya9ic5up5zjxu6vwkpdj1buh&st=jznyet3k&dl=0"
           here="hier"
           madeby="Diese Website wurde mit React.js und Bootstrap erstellt, entwickelt von
          Matea Zerjav, und"

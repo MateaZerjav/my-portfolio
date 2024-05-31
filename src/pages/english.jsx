@@ -98,7 +98,7 @@ Tailwind CSS "
         />
         <SocialMedia
           paragraph="To get my CV Resume click"
-          cv="https://www.dropbox.com/scl/fi/x8284yytphnc5jiy7k7jw/Matea-erjav-CV-Resume.pdf?rlkey=czlsl3gu18g2gltuehkabgie6&st=f9yrclws&dl=0"
+          cv="https://www.dropbox.com/scl/fi/zn5j63t3j4y3omb4o6qg4/Matea-erjavCV-Resume.pdf?rlkey=iiykbgq4bgsm3aqi6wkw0xcan&st=cpmn47ly&dl=0"
           here="here"
           madeby="This website was created using React.js and Bootstrap, developed by
         Matea Zerjav, and is"
