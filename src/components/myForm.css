@@ -1,5 +1,4 @@
-.EnForm form {
-  display: block;
+.MyForm form {
   margin: 0 auto;
   margin-top: 250px;
   margin-bottom: 70px;
@@ -9,11 +8,17 @@
   display: flex;
   justify-content: center;
 }
-.fEnForm h2 {
+.MyForm h1 {
   font-family: "Playfair Display", serif;
   color: black;
-  display: relative;
-  top: 100px;
+  font-size: 100px !important;
+  padding-right: 100px;
+  margin-top: 100px;
+  margin-bottom: 0;
+}
+.MyForm form {
+  margin: 0 auto;
+  display: block;
 }
 
 button {

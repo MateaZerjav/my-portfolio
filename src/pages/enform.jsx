@@ -1,39 +1,20 @@
 import React from "react";
-import "./form.css";
+import MyForm from "../components/MyForm";
+import { Link } from "react-router-dom";
 
 export default function EnForm() {
   return (
     <div className="EnForm">
-      <style>{"body{background-color: rgba(7, 67, 10, 0.196);}"}</style>
-      <div className="container form">
-        <h2>Work Inquiry</h2>
-        <form method="POST" action="hhttps://getform.io/f/lbkmzlyb">
-          <div className="row">
-            <div class="col ">
-              <input
-                type="text"
-                placeholder="Name"
-                className="border border-0 mb-2 center"
-              ></input>
-              <input
-                type="email"
-                placeholder="Enter your e-mail"
-                className="border border-0"
-              ></input>
-            </div>
-            <div class="col">
-              <input
-                type="text"
-                placeholder="Enter your messege."
-                className="border border-0  messege"
-              ></input>
-            </div>
-            <div class="col">
-              <input type="submit">Submit</input>
-            </div>
-          </div>
-        </form>
-      </div>
+      <Link to="/">
+        <h2 className="fst-italic text-light"> Back </h2>
+      </Link>
+      <MyForm
+        header="Work Inquiry"
+        enter_name="Name"
+        enter_email="Enter your e-mail"
+        enter_message="Your message..."
+        submit="Submit"
+      />
     </div>
   );
 }

@@ -92,7 +92,7 @@ Tailwind CSS "
       </main>
       <footer name="contact-matea-deu">
         <ContactMe
-          inquiry="Work Inquiry"
+          inquiry="Arbeitsanfrage"
           paragraph="Senden Sie Ihre Anfrage per E-Mail"
           button="E-mail senden"
           contact_form="/deuform"
