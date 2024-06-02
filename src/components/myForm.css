@@ -1,22 +1,26 @@
-.MyForm form {
+form {
   margin: 0 auto;
-  margin-top: 250px;
-  margin-bottom: 70px;
   background-color: rgba(7, 67, 10, 0.225);
   max-width: 900px;
-  padding: 70px;
   display: flex;
   justify-content: center;
 }
-.MyForm h1 {
+.form_container_lg form {
+  margin-top: 250px;
+  margin-bottom: 70px;
+  padding: 70px;
+}
+h1 {
   font-family: "Playfair Display", serif;
   color: black;
+}
+.form_container_lg h1 {
   font-size: 100px !important;
   padding-right: 100px;
   margin-top: 100px;
   margin-bottom: 0;
 }
-.MyForm form {
+.form_container_lg form {
   margin: 0 auto;
   display: block;
 }
@@ -24,12 +28,14 @@
 button {
   border: none;
   color: white;
-  font-size: 12px;
   background-color: rgba(7, 67, 10, 0.619);
   text-decoration: none;
-  padding: 15px 30px;
   letter-spacing: 5px;
   color: rgb(255, 255, 255);
+  padding: 15px 30px;
+}
+.form_container_lg button {
+  font-size: 12px;
   margin-top: 30px;
 }
 button:hover {
@@ -47,4 +53,29 @@ button:hover {
   padding: 25px;
   padding-right: 100px;
   padding-legt: 100px;
+}
+
+.form_container_sm form {
+  padding: 70px;
+}
+
+.form_container_sm h1 {
+  font-size: 50px !important;
+  padding-right: 100px;
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+
+.form_container_sm input {
+  margin: 0 auto;
+  display: block;
+  max-width: 200px;
+  width: 190px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-bottom: 30px;
+}
+.form_container_sm button {
+  margin: 0 auto;
+  display: block;
 }
