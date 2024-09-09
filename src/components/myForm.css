@@ -76,6 +76,8 @@ button:hover {
   padding-top: 20px;
   padding-bottom: 20px;
   margin-bottom: 30px;
+  font-family: Poppins, sans-serif;
+  letter-spacing: 2px;
 }
 .form_container_sm button {
   margin: 0 auto;
