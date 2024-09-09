@@ -99,7 +99,7 @@ Tailwind CSS "
         />
         <SocialMedia
           paragraph="Za preuzimanje zivotopisa klikni"
-          cv="https://www.dropbox.com/scl/fi/gff9ndljgwl7iiqxb7z8a/Matea-erjav-ivotopis.pdf?rlkey=ftbot7d8gzf7g37avtwbno9r4&st=c1zfffgi&dl=0"
+          cv="https://www.dropbox.com/scl/fi/gff9ndljgwl7iiqxb7z8a/Matea-erjav-ivotopis.pdf?rlkey=ftbot7d8gzf7g37avtwbno9r4&st=4a4obzqu&dl=0"
           here="ovdje"
           madeby="Ova internet stranica je razvijena koristeci React.js i Bootstrap, od strane Matee Zerjav "
           github="te je otvoreni-izvor na GitHub-u"
